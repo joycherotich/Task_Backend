@@ -16,7 +16,7 @@ This is the **backend API** for the Task Manager application, built with **Ruby 
 - MySQL for development
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 bundle install
 rails server
